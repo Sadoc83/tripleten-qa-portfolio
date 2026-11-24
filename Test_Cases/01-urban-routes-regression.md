@@ -52,5 +52,4 @@ Durante la ejecución se aislaron **3 defectos críticos** que impactaban direct
 
 
 
-
 [google-sheets-proyecto1]:https://docs.google.com/spreadsheets/d/1LE36G4Bc_343RE8ZsLnKBr_SzWfINQrSfF8DZkQY0Q0/edit?gid=1506932352#gid=1506932352
